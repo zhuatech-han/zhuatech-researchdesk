@@ -1,0 +1,6 @@
+知华科技 ResearchDesk
+Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ · 微信 zhuatech / zhuatech2
+
+基础会话认证、JPA存储和构建工具包含知华自有 PhotoProof 与 LeaseHub 组件，适用同一自有LICENSE。
+
+第三方依赖保持各自版权与许可，包含 Spring Boot/Security/Data、Hibernate ORM、Flyway、MySQL Connector/J、Apache POI、Apache PDFBox、Vue、Vite、Nginx及其传递依赖。各第三方发行包内的 LICENSE / NOTICE 和依赖元数据保持有效。自有非商业LICENSE不替代或重新许可第三方组件。
